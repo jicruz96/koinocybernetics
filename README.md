@@ -19,4 +19,3 @@ Such a pursuit would find few if any valid cases to study, would not necessitate
 
 **A multidisciplinary approach.**<br>
 In time, koinocybernetics could draw upon insight from fields and concepts such as systems theory, game theory, and natural selection. As in cybernetics, its abstraction from specific types of systems will enable it's application within and, importantly between, a multiplicity of domains. Unlike cybernetics, however, it is both a descriptive and a normative framework, as it seeks not only to describe the behavior of systems, but also to discover ideal structures, states, behaviors, and conditions for systems to maintain, survive, germinate, and perhaps even reproduce their self-governing quality.
-
